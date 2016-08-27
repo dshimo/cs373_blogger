@@ -1,13 +1,9 @@
-# Site settings
-title: Clean
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
-baseurl: "/cs373_blogger" # the subpath of your site, e.g. /blog/
-url: "https://dshimo.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+name: Solar Theme
+url: https://dshimo/github.io/cs373_blogger/
+description: A stylish blog using the Solarized color palette
 
-# Build settings
-markdown: kramdown
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
