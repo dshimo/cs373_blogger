@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       dshi@utexas.edu
-author:      David Shi
+title:       "Week One"
+email:       "dshi@utexas.edu"
+author:      "David Shi"
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://github.io/dshimo/cs373_blogger/"
+url:         "https://github.io/dshimo/cs373_blogger/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -74,16 +74,6 @@ text:
     newer: 'Newer'
     older: 'Older'
   share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
   post:
     updated:        'Updated'
     minute_read:    'minute read'
