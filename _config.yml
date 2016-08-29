@@ -4,7 +4,7 @@ title: David Shi's Weekly Blog
 locale: en_US
 description: CS373 Fall 2016 with Glenn Downing
 logo: headshot.png
-search: true
+search: false
 url: https://dshimo.github.io/cs373_blogger/
 
 # Jekyll configuration
