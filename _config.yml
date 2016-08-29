@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Week One
+title: David Shi's Weekly Blog: Week One
 locale: en_US
-description: CS373 SWE Blog
+description: CS373 Fall 2016 with Glenn Downing
 logo: headshot.png
 search: true
 url: https://dshimo.github.io/cs373_blogger/
