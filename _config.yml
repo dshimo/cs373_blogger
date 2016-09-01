@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: David Shi's Weekly Blog
+title: CS373 Fall 2016: David Shi
 locale: en_US
-description: CS373 Fall 2016 with Glenn Downing
+description: Software Engineering with Glenn Downing
 logo: headshot.png
 search: false
 url: https://dshimo.github.io/cs373_blogger
