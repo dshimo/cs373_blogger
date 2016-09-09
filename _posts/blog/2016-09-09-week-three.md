@@ -17,7 +17,7 @@ Turning in and completing the first assignment, collatz. The programming for it 
 This was simple inexperience. There were many firsts, but preparing to turn in projects should definitely be easier now. It's likely that from now on the real stress will be building the projects.
 
 ### What will I do next week?
-Fill me
+Read up on project 2
 
 ## The Experience in the Classroom
 Learning syntax for python.
