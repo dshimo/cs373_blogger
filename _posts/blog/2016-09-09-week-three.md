@@ -24,3 +24,4 @@ Learning syntax for python.
 
 ## Tip of the Week
 If you have the time to mess around with your work environment, go checkout xmonad
+Tiling manager for those who appreciate it
