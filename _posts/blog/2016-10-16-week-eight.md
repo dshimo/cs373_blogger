@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Week Eight"
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date: 2016-10-16T15:39:55-04:00
+---
+### What did I do this past week?
+
+### What's in my way?
+
+### What will I do next week?
+
+## The Experience in the Classroom
+
+## Tip of the Week
+
