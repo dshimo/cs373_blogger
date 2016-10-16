@@ -24,5 +24,5 @@ The experience I want to talk about in today's blog is the importance of class p
 I know this was a highly individualized blog entry, but I never truly respected our class until this week (with the introduction of decorators and project #3).
 
 ## Tip of the Week
-When managing and communicating amongst the team, Slack has become one of the best free tools out there. From adding members to adding app integrations, it's all pretty simple and can be really rewarding. 
+When managing and communicating among the team, Slack has become one of the best free tools out there. From adding members to adding several app integrations, it's all pretty simple and can be really rewarding. 
 
