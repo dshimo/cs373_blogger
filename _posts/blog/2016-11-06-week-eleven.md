@@ -22,7 +22,7 @@ I'm not sure why no one told me of the wonders of tmux but I will spare the read
 
 Check out their [website here], [shortcut cheatsheet here], and [my simple dotfile here]. Hopefully the comments are clear enough. The prefix C-a means (Control-a). 
 
-[tmxu]: https://tmux.github.io/
+[tmux]: https://tmux.github.io/
 [screen]: https://www.gnu.org/software/screen/manual/screen.html
 [website here]: https://tmux.github.io/
 [shortcut cheatsheet here]: https://tmuxcheatsheet.com/
