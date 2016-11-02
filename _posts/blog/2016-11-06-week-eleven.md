@@ -10,12 +10,17 @@ image:
 date: 2016-11-06T15:39:55-04:00
 ---
 ### What did I do this past week?
+Phase 2
 
 ### What's in my way?
+Everything else
 
 ### What will I do next week?
+I hope that it will be a time to breath and catch up
 
 ## The Experience in the Classroom
+Monday: XML, DTD, DST
+Wednesday: JSON
 
 ## Tip of the Week
 I'm not sure why no one told me of the wonders of tmux but I will spare the reader of this pain. Any terminal user should learn [tmux] or [screen]; tmux is superior in my opinion. Short for terminal multiplexer, it essentially allows you to switch between several programs within one terminal window. Additionally, you can detach or attach sessions (which saves your layout with windows, panes, buffers, etc.). Another cool thing is if you multiple windows attach to the same session, both will see the update. Technically you can use this for pair programming then! You can split your window to vim and shell within one terminal window! I strongly encourage anyone who uses the terminal to try out this open-source software.
