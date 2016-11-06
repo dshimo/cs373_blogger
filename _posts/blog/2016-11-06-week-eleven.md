@@ -32,4 +32,4 @@ Check out their [website here], [shortcut cheatsheet here], and [my dotfile here
 [screen]: https://www.gnu.org/software/screen/manual/screen.html
 [website here]: https://tmux.github.io/
 [shortcut cheatsheet here]: https://tmuxcheatsheet.com/
-[my simple dotfile here]: https://github.com/dshimo/dotfiles/blob/master/tmux/tmux.conf
+[my dotfile here]: https://github.com/dshimo/dotfiles/blob/master/tmux/tmux.conf
