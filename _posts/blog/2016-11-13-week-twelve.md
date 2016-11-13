@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image: 
   feature:
-date: 2016-11-13T15:39:55-04:00
+date: 2016-11-12T15:39:55-04:00
 ---
 ### What did I do this past week?
 The development for the IDB project was rather slow this week. We mostly sorted out our user stories and determined which specific tasks must be done. After all, the real drive to finish the project always comes during the week that it's due.
